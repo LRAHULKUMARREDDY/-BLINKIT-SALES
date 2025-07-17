@@ -28,3 +28,4 @@ Visual storytelling for decision-making insights
 
 💡 Objective:
 To turn raw Blinkit data into actionable insights that can help optimize inventory management, improve delivery operations, and understand consumer behavior.
+<img width="1059" height="666" alt="Screenshot 2025-07-17 152035" src="https://github.com/user-attachments/assets/89bbd402-6b6b-419c-bf04-34b423f87019" />
